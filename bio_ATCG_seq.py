@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 23 10:01:39 2019
 
-@author: geniaaz
+@author: Found partly online, I modified to make it applicable for me!!
 """
 
 """
