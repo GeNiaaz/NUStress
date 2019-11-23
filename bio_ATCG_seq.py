@@ -5,6 +5,22 @@ Created on Sat Nov 23 10:01:39 2019
 @author: geniaaz
 """
 
+"""
+This script aims to make it easier for takers of LSM 1301 to 
+sequence the polypeptide chains from an input of a string of
+the DNA sequence. 
+
+First the DNA complement and reverse of it are printed. Then,
+the RNA complment with AUCG (and its reverse) are printed.
+
+Finally, the sequence of polypeptide chains is printed (and
+of course its reverse)
+
+Enjoy!!
+
+"""
+
+
 #paste the sequence u want to complement, below
 seq = 'TTTTGCGTCTACTATATACTT'
 
