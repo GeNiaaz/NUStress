@@ -23,6 +23,10 @@ Enjoy!!
 
 #paste the sequence u want to complement, below
 seq = 'TTTTGCGTCTACTATATACTT'
+print('_______________________')
+print('')
+print('length of sequence: ' + str(len(seq)))
+print ('')
 
 def complement(dna):
     complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A'}
